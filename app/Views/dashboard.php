@@ -1,0 +1,1 @@
+<p style="font-size: 24px; font-weight: bold; color: green; text-align: center">Welcome, <?= session('user')->firstname; ?></p>';
